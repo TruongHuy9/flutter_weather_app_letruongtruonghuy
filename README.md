@@ -134,6 +134,7 @@ flutter run
 
 ##  Cấu trúc thư mục
 
-![alt text](image.png)
-![alt text](image-1.png)
+<img width="547" height="882" alt="Screenshot 2026-05-02 235155" src="https://github.com/user-attachments/assets/59e521ce-ebcf-4d75-ab7c-bcf88e9613b5" />
+<img width="551" height="290" alt="Screenshot 2026-05-02 235208" src="https://github.com/user-attachments/assets/6bfa17ed-382a-44f8-abd4-9eb291b475d4" />
+
 ---
