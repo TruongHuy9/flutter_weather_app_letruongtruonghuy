@@ -62,26 +62,28 @@ import 'config/api_key.dart';
 
 
 ###  Thời tiết mưa
-![alt text](<Screenshot 2026-05-02 232128.png>)
+<img width="440" height="866" alt="Screenshot 2026-05-02 232117" src="https://github.com/user-attachments/assets/41c305c0-cac0-415e-8500-02d0d366d199" />
 
 ###  Thời tiết nhiều mây
-![alt text](<Screenshot 2026-05-02 232058.png>)
+<img width="443" height="870" alt="Screenshot 2026-05-02 232058" src="https://github.com/user-attachments/assets/f8b8f8d5-28d2-4d3f-a1de-06b703295db5" />
 
 ###  Màn hình tìm kiếm
-![alt text](<Screenshot 2026-05-02 232205.png>)
+<img width="440" height="870" alt="Screenshot 2026-05-02 232205" src="https://github.com/user-attachments/assets/681ca126-afd6-47f5-bc13-3328a4d9e5b0" />
 
 ###  Màn hình dự báo
-![alt text](<Screenshot 2026-05-02 232251.png>)
+<img width="461" height="897" alt="Screenshot 2026-05-02 232251" src="https://github.com/user-attachments/assets/17dea189-1db7-4314-bf46-b44ac8ffe482" />
 
 ###  Trạng thái lỗi
-![alt text](<Screenshot 2026-05-02 234703.png>)
+<img width="404" height="831" alt="Screenshot 2026-05-02 234807" src="https://github.com/user-attachments/assets/5008f8c5-c3f1-4704-9beb-4991c9c8850d" />
+
+<img width="416" height="841" alt="Screenshot 2026-05-02 234748" src="https://github.com/user-attachments/assets/42de1148-83f3-4edd-b6a3-0a260857dca5" />
 
 ###  Trạng thái loading
 ![alt text](<Screenshot 2026-05-02 234748.png>)
 ![alt text](<Screenshot 2026-05-02 234807.png>)
 
 ###  Trạng thái Offline
-![alt text](<Screenshot 2026-05-02 231855.png>)
+<img width="456" height="877" alt="Screenshot 2026-05-02 231855" src="https://github.com/user-attachments/assets/df6df6cf-b008-47c0-9f18-6ec31db38eea" />
 ---
 
 ##  Cách chạy project
